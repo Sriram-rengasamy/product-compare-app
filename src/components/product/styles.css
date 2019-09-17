@@ -1,0 +1,11 @@
+.product {
+    width: 250px;
+    border: 1px solid #dddddd;
+    margin: 20px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
